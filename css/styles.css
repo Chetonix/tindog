@@ -58,3 +58,70 @@ h1 {
 
 /* Features */
 
+.features-area {
+  text-align: center;
+  margin: 10% auto;
+  padding: 0 2%;
+  font-weight: 400;
+  color: grey;
+}
+
+.features-icon {
+  color: #ef8172;
+  font-size: 3em;
+  padding-bottom: 5%;
+}
+
+.features-icon:hover {
+  color: #ff4c68;
+}
+
+.features-area h3 {
+  color: black;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.features-area p {
+  font-size: 0.95em;
+}
+
+/* Testimonials */
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+#testimonials h2 {
+  font-size: 2.8rem;
+  line-height: 1.5em;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+#testimonials em {
+  font-weight: 500;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
