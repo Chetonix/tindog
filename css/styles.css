@@ -145,3 +145,34 @@ h1 {
 .card {
   padding: 2% 3%;
 }
+
+/* Media Querries */
+
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+/* CTA Section */
+
+#cta {
+  padding-top: 7%;
+  margin-top: 1%;
+  background-color: #ff4c68;
+  text-align: center;
+  color: #fff;
+}
+
+#cta h3 {
+}
+
+#cta button {
+  margin-top: 3%;
+}
+
+/* Footer Section */
